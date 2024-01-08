@@ -11,11 +11,9 @@
 
 - 🌱 I’m currently learning **java/machine learning/deep leaning**
 
-- 💬 Ask me about **nothing**
-
 - 📫 How to reach me **tamilarasan792002@gmail.com**
 
-- ⚡ Fun fact **I thing I am funny**
+  
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
